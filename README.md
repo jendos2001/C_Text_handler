@@ -3,7 +3,7 @@ This program is a text handler. The input to the program is text, which can be e
 ## Program launch
 1. Clone the repository
 2. Go to the src folder
-3. Run command 'make'. The executable file 'text_handler' will turn out.
+3. Run command `make`. The executable file 'text_handler' will turn out.
 4. Run the file 'text_handler'.
 
 ## Program operation
@@ -22,7 +22,7 @@ Next, the user is offered a choice of four functions:
 ## Запуск программы
 1. Склонировать репозиторий
 2. Перейти в папку src
-3. Выполнить команду make. Получится исполняемый файл text_handler.
+3. Выполнить команду `make`. Получится исполняемый файл text_handler.
 4. Запустить файл text_handler.
 
 ## Работа программы
